@@ -1,4 +1,4 @@
-Some notes to share:
+#  **Some notes to share:**
 
 1- For input(), using list comprehension is the idea that I had initially but I finalized it by using AI.
 cf1=[float(x) for x in input("enter your list: ").split()]
